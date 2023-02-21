@@ -1,1 +1,1 @@
-# A python a day keeps me awaje
+# A python a day keeps me awake
