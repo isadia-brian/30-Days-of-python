@@ -1,5 +1,5 @@
 # Day 1: 30 Days of python programming
-import math
+
 # Variable Declaration
 
 first_name = "Brian"
@@ -47,7 +47,7 @@ product = num_one * num_two #20
 division = num_one / num_two #1
 remainder = print(num_one % num_two) #1
 exp = print(num_one**num_two) #625
-floor_division = print(math.floor(num_one/num_two)) #1
+floor_division = print((num_one//num_two)) 
 
 #Radius is 30m
 area_of_circle = 3.14 * 30 *30
